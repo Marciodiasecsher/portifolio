@@ -57,4 +57,4 @@ for linha in variavel2.iter_rows(min_row=2,values_only=True):
         variavel11 = variavel10['Sheet#']
         variavel11.append([xxx, xxx, xxx, xxx,'informção retirada do site'])
         variavel10.save('planilha para listar informações retiradas do site.xlsx')
-               #automatização webscrag
+               #automatização web
